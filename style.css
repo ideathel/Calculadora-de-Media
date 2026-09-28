@@ -1,0 +1,32 @@
+  body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f4f4f9;
+  }
+  label, input, button {
+    display: block;
+    margin-bottom: 15px;
+  }
+  input {
+    padding: 8px;
+    width: 100px;
+  }
+  button {
+    padding: 10px 15px;
+    cursor: pointer;
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    font-weight: bold;
+  }
+  #resultado {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  #resultado1 {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
